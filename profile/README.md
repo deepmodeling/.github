@@ -1,3 +1,3 @@
 [![banner](https://pbs.twimg.com/profile_banners/1403141023379955714/1624501721/1500x500)](https://github.com/deepmodeling/community)
-[![Metrics](https://metrics.lecoq.io/deepmodeling?template=classic&languages=1&followup=1&achievements=1&tweets=1&languages.limit=20&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&tweets.attachments=false&tweets.limit=2&tweets.user=deepmodeling&config.timezone=America%2FNew_York)](https://github.com/deepmodeling/community)
+[![Metrics](../github-metrics.svg)](https://github.com/deepmodeling/community)
 
