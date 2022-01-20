@@ -25,7 +25,7 @@ jobs:
           # Options
           user: deepmodeling
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -55,3 +55,4 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_limit: 2
           plugin_tweets_user: deepmodeling
+          config_padding: 0, 8 + 15%
