@@ -133,14 +133,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="17.44144144144144" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="17.44144144144144" y="0" width="29.72972972972973" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="47.17117117117117" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="47.17117117117117" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="47.17117117117117" y="0" width="58.666666666666664" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="105.83783783783784" y="0" width="114.16216216216216" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="-19.423423423423422" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="200.57657657657657" y="0" width="19.423423423423422" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="17.41007194244604" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="17.41007194244604" y="0" width="30.071942446043167" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="47.482014388489205" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="47.482014388489205" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="47.482014388489205" y="0" width="58.56115107913669" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="106.0431654676259" y="0" width="113.9568345323741" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="-19.388489208633093" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="200.6115107913669" y="0" width="19.388489208633093" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -154,7 +154,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">119 <small>open</small></span>
+                                <span class="no-wrap">120 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -188,7 +188,7 @@
                                     <path fill="#56d364" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#56d364" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">75 <small>open</small></span>
+                                <span class="no-wrap">76 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -389,7 +389,7 @@
                         <div class="tweet">
                             Videos:
                             <a href="https://t.co/RbppwS4iyg" class="link">mobile.deepmodeling.com/blog/2022_csi_…</a>
-                            <a href="https://t.co/n6d494HDZE" class="link">twitter.com/deepmodeling/s…</a>
+                            <a href="https://t.co/n6d494HDZE" class="link">twitter.com/DeepModeling/s…</a>
                             <div class="date">10:56:38 on 13 Jul 2022</div>
                         </div>
                     </section>
