@@ -133,14 +133,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="10.538922155688624" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="10.538922155688624" y="0" width="23.05389221556886" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="33.59281437125749" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="33.59281437125749" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="33.59281437125749" y="0" width="61.91616766467066" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="95.50898203592814" y="0" width="124.49101796407184" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="-18.77245508982036" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="201.22754491017963" y="0" width="18.77245508982036" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="10.85201793721973" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="10.85201793721973" y="0" width="23.019431988041855" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="33.87144992526159" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="33.87144992526159" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="33.87144992526159" y="0" width="61.82361733931241" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="95.69506726457399" y="0" width="124.30493273542601" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="-18.74439461883408" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="201.25560538116594" y="0" width="18.74439461883408" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -154,7 +154,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">102 <small>open</small></span>
+                                <span class="no-wrap">103 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -604,7 +604,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 25.5k out of 359m repositories</span>
+                                    <span class="gh">ranked 25.5k out of 361m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">379</div>
                                     </div>
@@ -717,7 +717,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 38k out of 359m repositories</span>
+                                    <span class="gh">ranked 38k out of 361m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">999</div>
                                     </div>
