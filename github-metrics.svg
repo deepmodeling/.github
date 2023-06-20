@@ -315,7 +315,7 @@
                     <rect mask="url(#languages-bar)" x="256.01065986788893" y="0" width="137.12997315512567" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="393.1406330230146" y="0" width="44.33221104840989" height="8" fill="#3D6117"/>
                     <rect mask="url(#languages-bar)" x="437.4728440714245" y="0" width="10.66882862819552" height="8" fill="#3A4E3A"/>
-                    <rect mask="url(#languages-bar)" x="448.14167269962" y="0" width="5.643755023335435" height="8" fill="#3be133"/>
+                    <rect mask="url(#languages-bar)" x="448.14167269962" y="0" width="5.643755023335435" height="8" fill="#ef7a08"/>
                     <rect mask="url(#languages-bar)" x="453.78542772295543" y="0" width="2.613477094439131" height="8" fill="#DA3434"/>
                     <rect mask="url(#languages-bar)" x="456.3989048173946" y="0" width="2.3565878577654504" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="458.75549267516004" y="0" width="1.2445073248399536" height="8" fill="#ecdebe"/>
@@ -347,7 +347,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3be133" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ef7a08" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         OCaml
                     </div>
@@ -580,7 +580,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 24.3k out of 409m repositories</span>
+                                    <span class="gh">ranked 22.9k out of 409m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">428</div>
                                     </div>
