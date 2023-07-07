@@ -27,6 +27,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
+          repositories_forks: true
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
