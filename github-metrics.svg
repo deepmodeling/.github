@@ -90,7 +90,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    4059 Stargazers
+                                    4058 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -218,14 +218,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.7367099204688154" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0.7367099204688154" y="0" width="1.0866471326915028" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="1.8233570531603183" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="1.528673084972792" y="0" width="0.2946839681875262" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="1.8233570531603183" y="0" width="10.811218082879867" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="12.634575136040185" y="0" width="8.711594809543742" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="21.346169945583927" y="0" width="137.58057764755128" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="158.92674759313522" y="0" width="61.073252406864796" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.7366482504604052" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0.7366482504604052" y="0" width="1.0865561694290975" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="1.8232044198895028" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="1.5285451197053408" y="0" width="0.29465930018416203" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="1.8232044198895028" y="0" width="10.828729281767956" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="12.651933701657459" y="0" width="8.710865561694291" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="21.36279926335175" y="0" width="137.56906077348066" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="158.9318600368324" y="0" width="61.06813996316758" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -257,7 +257,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1060 <small>closed</small></span>
+                                <span class="no-wrap">1061 <small>closed</small></span>
                             </div>
                         </div>
                         <div class="field blue fill-width">
