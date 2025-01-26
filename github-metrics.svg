@@ -218,14 +218,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.4830993647557054" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0.4830993647557054" y="0" width="0.8626774370637597" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="1.3457768018194651" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="1.069720021959062" y="0" width="0.2760567798604031" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="1.345776801819465" y="0" width="12.129244765116463" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="13.475021566935927" y="0" width="8.333464042035919" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="21.808485608971846" y="0" width="139.28789898831465" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="161.0963845972865" y="0" width="58.90361540271351" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.48306148055207027" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0.48306148055207027" y="0" width="0.8626097867001256" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="1.3456712672521958" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="1.0696361355081556" y="0" width="0.27603513174404015" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="1.3456712672521958" y="0" width="12.128293601003765" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="13.473964868255962" y="0" width="8.332810539523212" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="21.806775407779174" y="0" width="139.29422835633628" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="161.10100376411546" y="0" width="58.89899623588457" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -244,7 +244,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">11487 <small>merged</small></span>
+                                <span class="no-wrap">11488 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -311,14 +311,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.06074526051668" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="246.06074526051668" y="0" width="156.81442941227627" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="402.875174672793" y="0" width="34.510372383764675" height="8" fill="#3A4E3A"/>
-                    <rect mask="url(#languages-bar)" x="437.38554705655764" y="0" width="9.457524592333566" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="446.84307164889117" y="0" width="4.485698123705781" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="451.32876977259696" y="0" width="4.346667538372717" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.6754373109697" y="0" width="2.9676722342809585" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="458.64310954525064" y="0" width="1.3568904547493759" height="8" fill="#ef7a08"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.05955531412354" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="246.05955531412354" y="0" width="156.8158956135421" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="402.8754509276656" y="0" width="34.5102054920766" height="8" fill="#3A4E3A"/>
+                    <rect mask="url(#languages-bar)" x="437.38565641974225" y="0" width="9.457478855874202" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="446.8431352756164" y="0" width="4.4856764309311075" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="451.3288117065475" y="0" width="4.346646517948049" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.67545822449557" y="0" width="2.96765788265869" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="458.6431161071543" y="0" width="1.3568838928457254" height="8" fill="#ef7a08"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
