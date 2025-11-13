@@ -140,7 +140,7 @@
                             <rect mask="url(#issues-bar)" x="26.324786324786324" y="0" width="103.5672514619883" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="129.89203778677464" y="0" width="90.10796221322536" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="213.31983805668017" y="0" width="6.680161943319837" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="213.51776878092667" y="0" width="6.4822312190733244" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -207,7 +207,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#c9d1d9" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm3.28 5.78a.75.75 0 00-1.06-1.06l-5.5 5.5a.75.75 0 101.06 1.06l5.5-5.5z"/>
                                 </svg>
-                                <span class="no-wrap">135 <small>skipped</small></span>
+                                <span class="no-wrap">131 <small>skipped</small></span>
                             </div>
                         </div>
                     </section>
